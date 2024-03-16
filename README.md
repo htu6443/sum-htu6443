@@ -1,5 +1,4 @@
 # sum-htu6443
-mai
 dao
 giathinh
 xuanthinh
