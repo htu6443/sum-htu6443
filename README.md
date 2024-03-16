@@ -3,7 +3,6 @@ dao
 giathinh
 baothanh
 xuanthinh
-kimchi
 khamthien
 Một thư viện giúp bạn tính tổng của 2 số bất kỳ
 
